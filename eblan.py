@@ -1,1 +1,1 @@
-авакегнеглогне
+print("Hello World")
